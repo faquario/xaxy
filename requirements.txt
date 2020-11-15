@@ -1,7 +1,7 @@
 pyrogram
 tgcrypto
 
-https://github.com/pyrogram/pyrogram/archive/asyncio.zip
+
 aiohttp
 
 # scrapping tools [not used anywhere]
